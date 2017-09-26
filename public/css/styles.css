@@ -1,0 +1,44 @@
+.navbar-ns {
+    background-color: #FCC63F;
+    color: #202B5A;
+}
+
+.navbar-nav>li>a, .dropdown-menu>li, .dropdown-menu, .navbar-brand, .navbar-brand:hover {
+    color: #202B5A;
+    background-color: #FCC63F;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    font-weight: bold;
+}
+
+.navbar-nav>li>a:hover, .navbar-nav>li>a:active, .nav .open>a, .nav .open>a:focus, .nav .open>a:hover, .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: #202B5A;
+    color: #FCC63F;
+}
+
+.plan-journey {
+    width: 100%;
+    background-color: #FCC63F;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.submit-button {
+    float: right;
+}
+
+.btn-ns {
+    background-color: #202B5A;
+    color: #FCC63F;
+}
+
+.btn-ns:hover {
+    color: #202B5A;
+    background-color: #FCC63F;
+    border: 1px solid #202B5A;
+}
+
+.submit-container {
+    padding: 0;
+}
